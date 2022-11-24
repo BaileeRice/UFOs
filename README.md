@@ -2,6 +2,7 @@
 OVERVIEW:
 
 Building a dynamic webpage to display information on UFO sightings throughout the world. Starting by creating/importing JavaScript code into a HTML page and formatting it with CSS.
+
 ---
 
 RESULTS:
