@@ -1,11 +1,11 @@
 # UFOs
-OVERVIEW:
+## OVERVIEW:
 
 Building a dynamic webpage to display information on UFO sightings throughout the world. Starting by creating/importing JavaScript code into a HTML page and formatting it with CSS.
 
 ---
 
-RESULTS:
+## RESULTS:
 
 A small set of sightings will already be displayed when opening the page, however, the filter area(FIG below) gives you a multitude of criteria to help narrow your search for particular sightings
 
@@ -13,7 +13,7 @@ A small set of sightings will already be displayed when opening the page, howeve
 
 ---
 
-DRAWBACKS:
+## DRAWBACKS:
 
 The main issue this webpage has is that the information isn't connected to a live feed that gets updated, recent sightings will not be added unless manually entered or pulled from a up-to-date database.
 
@@ -21,7 +21,7 @@ Issues arise when you don't search by exact names and dates, the filters as well
 
 ---
 
-QUALITY OF LIFE IDEAS:
+## QUALITY OF LIFE IDEAS:
 
 The addition of button-click interactions and maybe a column filter to sort by the duration of sightings(ascending/descending) to enhance the user experience
 
